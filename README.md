@@ -38,8 +38,8 @@
   <a href="https://twitter.com/inezanorah12" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/></a>
   <a href="https://stackoverflow.com/users/nora-m-ineza" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="Stack Overflow"/></a>
   <a href="https://instagram.com/n_o.r.a._h" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/></a>
-  <a href="https://dribbble.com/inezaa" target="_blank"><img src="https://skillicons.dev/icons?i=dribbble" height="40" alt="Dribbble"/></a>
-  <a href="https://www.behance.net/norahineza" target="_blank"><img src="https://skillicons.dev/icons?i=behance" height="40" alt="Behance"/></a>
+  <a href="https://dribbble.com/inezaa" target="_blank"><img src="[https://skillicons.dev/icons?i=dribbble](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg)" height="40" alt="Dribbble"/></a>
+  <a href="[https://www.behance.net/norahineza](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg)" target="_blank"><img src="https://skillicons.dev/icons?i=behance" height="40" alt="Behance"/></a>
   <a href="https://codeforces.com/profile/inezanora" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" height="40" alt="Codeforces"/></a>
 </p>
 

@@ -26,6 +26,7 @@
 - 🤝 Open to **any cool project collaboration**  
 - 💬 Ask me about **React, Nest.js, Node.js, Express**  
 - 📫 Reach me at **inezanorah12@gmail.com**  
+- 📄 Know more about me → [My Portfolio](https://inezanora.vercel.app/)  
 - 📄 Know more about me → [My Resume](https://www.canva.com/design/DAG1UyZYZAE/RpkB00cSGCYjdNR6Si1-1Q/edit)  
 - ⚡ Fun fact → *I code best with music on 🎶*
 

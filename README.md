@@ -1,5 +1,5 @@
 <!-- 💫 Welcome Section -->
-<h1 align="center">Hey there 👋, I'm <span style="color:#4A90E2;">M. INEZA Nora</span></h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#4A90E2;">Nora M. Ineza</span></h1>
 <h3 align="center">💻 A passionate Designer & Full-Stack Developer from Rwanda 🇷🇼</h3>
 
 <p align="center">
